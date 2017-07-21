@@ -11,7 +11,7 @@ Clone:
 
 Go to the app:
 
-`$ cd wify-me`
+`$ cd wifyme`
 
 Install dependencies:
 
