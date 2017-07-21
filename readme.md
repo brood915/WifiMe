@@ -6,12 +6,19 @@ A simple full-stack application that allows users to find places nearby them wit
 ## To run the app
 
 Clone:
-`$ git clone -b branch-name https://github.com/simonholmes/getting-MEAN.git`
 
-Then change into the folder the git clone command will create:
+`$ git clone https://github.com/brood915/WifyMe.git`
 
-`$ cd getting-MEAN`
+Go to the app:
 
-And finally install the dependencies:
+`$ cd wify-me`
 
-`npm install`
+Install dependencies:
+
+`$ npm install`
+
+Start:
+
+`$ npm start`
+
+App should be running on localhost:3000
