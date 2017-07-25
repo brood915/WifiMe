@@ -1,6 +1,7 @@
 # WifyMe
 
 A simple full-stack application that allows users to find places nearby them with WiFi.
+Currently, the app uses fake data. 
 
 
 ## To run the app
